@@ -1,0 +1,288 @@
+d-flex justify-content-around align-items-center
+    <div class="card-group" id="portfolio">
+      <!-- hackespace -->
+      <div class="card" style="width: 20rem;height: 25rem" id = "card">
+          <!-- <img src = "./images/hackspace.jpg" class="card-img-top" alt="..." > -->
+          <div class="card-body">
+              <h4 class="card-title"><u>HackSpace</u></h4>
+              <p class="card-text"> Stack: React js, Node js, MongoDB, HTML, Bootstrap, Express js</p>
+            <div class="card-footer">
+                <a href="" class="btn btn-danger" id = "button" data-toggle="modal" data-target="#myModal" >See more</a> 
+            </div>
+          </div>
+      <!-- The Modal -->
+          <div class="modal" id="myModal">
+            <div class="modal-dialog">
+              <div class="modal-content">
+              
+      <!-- Modal Header -->
+              <div class="modal-header">
+                <h2 class="modal-title">HackSpace - A Social Networking App</h2>
+              </div>
+                  
+      <!-- Modal body -->
+              <div class="modal-body">
+                This app was the final project of the Ironhack bootcamp. The idea was to build a social networking app that can be used for a group of people
+                to <b>connect</b> within themselves. Here users can <b>post</b> their thoughts, <b>share</b> vidoes and images, <b>like</b> other peoples post,
+               <b>showcase</b>  their achivements , and <b>chat</b>  with the people who they follow!  
+                <br> 
+                <a href="http://hackspace.herokuapp.com/"> Visit the App</a> 
+                <br> 
+                We, team of three, build this porject in 7 days starting from brainstorming, coding, debugging and finally presenting to the class :) 
+               </div>
+                 
+      <!-- Modal footer -->
+              <div class="modal-footer">
+                  <button type="button" class="btn btn-danger" data-dismiss="modal"> <b>Close</b></button>
+              </div>
+          </div>
+        </div>
+       </div>    
+      </div>
+<!-- hungry hacker -->
+      <div class="card" style="width: 20rem;height: 25rem" id = "card">
+          <!-- <img src = "./images/hungry.jpg" class="card-img-top" alt="..." > -->
+          <div class="card-body">
+              <h4 class="card-title"> <u>Hungry Hackers</u></h4>
+              <p class="card-text"> Project using Handlebars, Node js, Express js, MongoDB, Bootstrap, RestAPI</p>
+              <div class="card-footer">
+             <a href="" class="btn btn-danger" id = "button" data-toggle="modal" data-target="#myModal2" >See more</a> 
+          </div>
+      </div>
+          <!-- The Modal -->
+          <div class="modal" id="myModal2">
+              <div class="modal-dialog">
+                <div class="modal-content">
+                
+        <!-- Modal Header -->
+                <div class="modal-header">
+                  <h2 class="modal-title">HungryHackers - A Restaurant Searching App</h2>
+                  <button type="button" class="close" data-dismiss="modal">&times;</button>
+                </div>
+                    
+        <!-- Modal body -->
+                <div class="modal-body">
+                  This app was a project of the Ironhack bootcamp. The idea was to build a Restaurant searching app to help people find restaurants by cuisine /
+                  by area or by name of a restaurant. The search result will give the address, review and the location of the place on map. 
+                  Additionally, there is a blog and a game related to enjoy at the app. 
+                  <br>
+                  Stack: Handlebars, Node js, Express js, MongoDB, Bootstrap, RestAPI
+                  <br> 
+                  <a href="https://hungryhackers.herokuapp.com/"> Visit the App</a> 
+                  <br> 
+                  We, team of two, build this porject in 5 days starting from brainstorming, coding, debugging and finally presenting to the class :) 
+                 </div>
+                   
+        <!-- Modal footer -->
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-danger" data-dismiss="modal"> <b>X</b></button>
+                </div>
+            </div>
+          </div>
+         </div> 
+      </div>
+<!-- Quiz app -->
+
+      <div class="card" style="width: 20rem; height: 25rem" id = "card">
+          <!-- <img src = "./images/quiz.jpg" class="card-img-top" alt="..." > -->
+          <div class="card-body">
+              <h5 class="card-title">Quiz App</h5>
+              <p class="card-text">Stack: React js, HTML, CSS</p>
+              <div class="card-footer">
+
+                  <a href="" class="btn btn-danger" id = "button" data-toggle="modal" data-target="#myModal3">See more</a> 
+              </div>
+          </div>
+          <!-- The Modal -->
+          <div class="modal" id="myModal3">
+              <div class="modal-dialog">
+                <div class="modal-content">
+                
+        <!-- Modal Header -->
+                <div class="modal-header">
+                  <h2 class="modal-title">Quiz</h2>
+                  <button type="button" class="close" data-dismiss="modal">&times;</button>
+                </div>
+                    
+        <!-- Modal body -->
+                <div class="modal-body">
+                  This app was a personal project to enhance my React js skills and to check general knowledge of the users :D 
+                  <br>
+                  Stack: Reactjs, Express js, HTML, CSS
+                  <br> 
+                  <a href="https://github.com/salwacynthia/Quiz-App"> Visit the App</a> 
+                  <br> 
+                  We, team of two, build this porject in 5 days starting from brainstorming, coding, debugging and finally presenting to the class :) 
+                 </div>
+                   
+        <!-- Modal footer -->
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-danger" data-dismiss="modal"> <b>Close</b></button>
+                </div>
+            </div>
+          </div>
+         </div>
+      </div>
+      <!-- currency Converter -->
+
+      <div class="card" style="width: 20rem;height: 25rem" id = "card">
+          <!-- <img src = "./images/currency.jpg" class="card-img-top" alt="..." > -->
+          <div class="card-body">
+              <h5 class="card-title">Currency Converter</h5>
+              <p class="card-text">Reactjs, RestAPI, HTML, CSS</p>
+              <div class="card-footer">
+
+                  <a href="" class="btn btn-danger" id = "button" data-toggle="modal" data-target="#myModal4">See more</a> 
+              </div>
+          </div>
+          <!-- The Modal -->
+          <div class="modal" id="myModal4">
+              <div class="modal-dialog">
+                <div class="modal-content">
+                
+        <!-- Modal Header -->
+                <div class="modal-header">
+                  <h2 class="modal-title">Quiz</h2>
+                  <button type="button" class="close" data-dismiss="modal">&times;</button>
+                </div>
+                    
+        <!-- Modal body -->
+                <div class="modal-body">
+                  This app was a personal project to enhance my React js and RestAPI skills.  
+                  <br>
+                  Stack: Reactjs, Express js, HTML, CSS, RestAPI
+                  <br> 
+                  <a href="https://github.com/salwacynthia/Currency-Conversion-App"> Visit the App</a> 
+                  </div>
+                   
+        <!-- Modal footer -->
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-danger" data-dismiss="modal"> <b>Close</b></button>
+                </div>
+            </div>
+          </div>
+         </div>
+      </div>
+
+<!-- Shoopin cart -->
+      <div class="card" style="width: 20rem;height:25rem" id = "card" >
+          <!-- <img src = "./images/shopping2.jpg" class="card-img-top" alt="..." > -->
+          <div class="card-body">
+              <h5 class="card-title">Shopping Cart</h5>
+              <p class="card-text">Reactjs, Redux</p>
+              <div class="card-footer">
+
+                  <a href="" class="btn btn-danger" id = "button" data-toggle="modal" data-target="#myModal4">See more</a> 
+              </div>
+          </div>
+          <!-- The Modal -->
+          <div class="modal" id="myModal4">
+              <div class="modal-dialog">
+                <div class="modal-content">
+                
+        <!-- Modal Header -->
+                <div class="modal-header">
+                  <h2 class="modal-title">Quiz</h2>
+                  <button type="button" class="close" data-dismiss="modal">&times;</button>
+                </div>
+                    
+        <!-- Modal body -->
+                <div class="modal-body">
+                  This app was a personal project to enhance my Redux skills.  
+                  <br>
+                  Stack: Reactjs, Redux, HTML, CSS
+                  <br> 
+                  <a href=""> Visit the App</a> 
+                  </div>
+                   
+        <!-- Modal footer -->
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-danger" data-dismiss="modal"> <b>Close</b></button>
+                </div>
+            </div>
+          </div>
+         </div>
+      </div>
+      <!-- dino game -->
+
+      <div class="card" style="width: 20rem; height: 25rem" id = "card">
+          <!-- <img src = "./images/dino.jpg" class="card-img-top" alt="..." > -->
+          <div class="card-body">
+              <h5 class="card-title">Dinosaur Game</h5>
+              <p class="card-text">Project using P5 js, JavaScript, HTML, CSS</p>
+              <div class="card-footer">
+
+                  <a href="" class="btn btn-danger" id = "button" data-toggle="modal" data-target="#myModal5">See more</a> 
+              </div>
+          </div>
+          <!-- The Modal -->
+          <div class="modal" id="myModal5">
+              <div class="modal-dialog">
+                <div class="modal-content">
+                
+        <!-- Modal Header -->
+                <div class="modal-header">
+                  <h2 class="modal-title">Dinosaur Game</h2>
+                  <button type="button" class="close" data-dismiss="modal">&times;</button>
+                </div>
+                    
+        <!-- Modal body -->
+                <div class="modal-body">
+                  This app was a solo project at Ironhack Bootcamp. A collision detection game where A good Dinosaur jumps over a bad Dinosaur to
+                  transform it to a good one. A Game I made for my toddler :D   
+                  <br>
+                  Stack: P5 js, JavaScript, HTML, CSS
+                  <br> 
+                  <a href="https://salwacynthia.github.io/DinoGame/dinovillage.html"> Visit the App</a> 
+                  </div>
+                   
+        <!-- Modal footer -->
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-danger" id = "button" data-dismiss="modal"> <b>Close</b></button>
+                </div>
+            </div>
+          </div>
+         </div>
+      </div>
+     
+   
+    
+   <!-- movie app-->
+
+   <div class="card" style="width: 20rem; height: 25rem" id = "card">
+      <!-- <img src = "./images/movies_search.png" class="card-img-top" alt="..." > -->
+      <div class="card-body">
+          <h5 class="card-title">Movie Search App</h5>
+          <p class="card-text">React Hook, HTML, CSS</p>
+          <div class="card-footer">
+
+              <a href="" class="btn btn-danger" data-toggle="modal" data-target="#myModal6">See more</a> 
+          </div>
+          </div>
+      <!-- The Modal -->
+      <div class="modal" id="myModal6">
+          <div class="modal-dialog">
+            <div class="modal-content">
+            
+    <!-- Modal Header -->
+            <div class="modal-header">
+              <h2 class="modal-title">Movie Search App</h2>
+            </div>
+                
+    <!-- Modal body -->
+            <div class="modal-body">
+              This is a personal project to practise React Hook.   
+              <br>
+              Stack: React Hook, HTML, CSS
+              <br> 
+              <a href="https://github.com/salwacynthia/movieapp"> Visit the App</a> 
+              </div>
+               
+    <!-- Modal footer -->
+            <div class="modal-footer">
+                <button type="button" class="btn btn-danger" data-dismiss="modal"> <b>Close</b></button>
+            </div>
+        </div>
+      </div>
+     </div>
+  </div>

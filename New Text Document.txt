@@ -1,0 +1,37 @@
+who sees challenges as opportunities for personal growth.
+rgb(209, 212, 23)
+blog
+add a quote
+
+CSS :  
+ transition ease out
+https://csslayout.io/patterns/
+https://codesandbox.io/s/webinar-portfolio-completed-example-shm3b?file=/index.html
+
+* image overflow hidden
+*button ke 1st e jei jaygay boshte chia okhane boshabo 
+* button:  position absolute, bottom : 0, right:0 === right corner e ashbe
+* button ta khali hover e  show krbe: 
+   - box er transform: translate(100%, 100%) -- (mane dekha jabe na)
+   - transition: all 1s linear
+   - .img-container:hover .cart-btn{   //meaning img container e hver krle cart er button show hobe
+              tarnsform: translate(0,0)
+           }
+* then button ta hover hole ki effect hbe sheta abar set krte hbe
+   - bttn cursor: pointer, color change ba ja iccha 
+* card footer e show button use koro
+
+
+Detail-oriented, a 'get-it-done' spirit, and proactive - these are the perfect words when it comes to my full-stack development journey. I am passionate about building user-centric products. I learn things proactively with curiosity. Like all of us, I have my weaknesses, which I address with positivity and take as learning opportunities.   
+
+** What I am looking for? ** 
+An opportunity to work within an enthusiastic team with ample chances to increase professional development. I am hungry to learn and take myself to the top of the game. 
+
+** What can I bring? ** 
+Who doesn't want an energetic colleague who is ready to challenge herself! I have been to top-notch universities to study engineering, collaborated with multicultural teams. These made me able to learn fast and perform. 
+
+** Tech Skills ** 
+Skilled in building web applications using JavaScript, React js, Bootstrap, CSS, Express.js, Git, HTML, MongoDB, and Node.js. Experienced in designing games using P5js, making responsive webpages/apps etc.
+
+
+ I am passionate about creating new things - more specifically creating user-centric products. I left my engineering job because I knew I can do even better in software development
