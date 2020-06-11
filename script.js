@@ -29,3 +29,9 @@ $(document).ready(function() {
       stickyToggle(sticky, stickyWrapper, $(window));
     });
   });
+
+  $(document).ready(function(){
+    $('[data-toggle="popover"]').popover({
+        placement : 'top'
+    });
+});
