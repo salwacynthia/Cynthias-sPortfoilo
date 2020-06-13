@@ -180,29 +180,41 @@ margin-top: 20px;
   .popover_message {
     text-align: center;
   }
-  .feature-btn-container{
+  /* .feature-btn-container{
       display: flex;
       justify-content: center;
-    }
+    } */
+#feature{
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   /* flex-direction: column; */
+}
 
-.feature-btn{
-        margin-left: 20px;
-    background:#E8E500;
-    height: 150px;
-    width: 150px;
+
+#feature-btn{
+    background:pink !important;
+    margin-left: 10px;
+    /* z-index: 10;
+    position: relative; */
+    display: flex;
+    align-self:center;
     font-size: 30px;
+    height:140px;
+    width:160px;    
     border-radius: 6px;
-    transition-property: background, border-radius;
+    /* /* transition-property: background, border-radius; */
     transition-duration: 1s;
-    /* transition-timing-function: linear; */
+     transition-timing-function: linear; 
+   
    
   }
 
-
-  .feature-btn:hover {
-    background: #A5D8F3;
+  #feature-btn:hover {
+    background:rgb(10, 25, 47) !important;
     border-radius: 50%;
-    color:white;
+    color:#01FFC3;
+
   }
 
   
